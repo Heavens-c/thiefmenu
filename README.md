@@ -7,6 +7,8 @@ You can steal someone by pointing at them with your gun. The target has to hands
 
 Only items, cash and black money can be stolen.
 
+make compatible on esx 1.2 / v1 final
+
 
 ## INSTALLATION
 
